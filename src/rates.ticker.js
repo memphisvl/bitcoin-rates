@@ -57,7 +57,7 @@ module.exports = class RatesTicker {
 
             console.log(colors.cyan('\n[ EUR / USD exch rates ]'));
             this.currencyRates.forEach(currency => {
-                console.log(`EUR/BTC ${currency.feed}: ${currency.usd}`);
+                console.log(`EUR/USD ${currency.feed}: ${currency.usd}`);
             });
 
         }, updateInSec * 1000)
