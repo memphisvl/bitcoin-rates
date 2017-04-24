@@ -13,7 +13,7 @@
     "counters"
   ],
   "author": "VG",
-  "license": "AGPL-1.0",
+  "license": "MIT",
   "dependencies": {
     "async": "^2.3.0",
     "colors": "^1.1.2",
