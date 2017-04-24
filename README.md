@@ -16,3 +16,6 @@ There are 2 sources for BTC>EUR rates and 2 sources for currency exchange.
 ## Setup
 * npm install
 * npm start
+
+## Example output
+![alt text](https://github.com/memphisvl/bitcoin-rates/blob/master/ticker.png "Screenshot")
